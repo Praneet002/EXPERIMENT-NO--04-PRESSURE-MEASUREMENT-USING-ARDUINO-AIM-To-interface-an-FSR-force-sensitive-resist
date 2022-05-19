@@ -110,7 +110,7 @@ void loop()
 
 ### OUTPUT
 
-![git](Screenshot 2022-05-12 180813.png)
+![git](https://github.com/Praneet002/EXPERIMENT-NO--04-PRESSURE-MEASUREMENT-USING-ARDUINO-AIM-To-interface-an-FSR-force-sensitive-resist/blob/main/Screenshot%202022-05-12%20180813.png)
 
 
 
