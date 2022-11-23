@@ -102,8 +102,8 @@ EX:           μ = (1+3+4+7+8) / 5 = 4.6
 
 ## PROGRAM:
 ```
-Developed by : KRISHNA PRAKAASH D M
-Register number : 212221230052
+Developed by : PRANEET S
+Register number : 212221230078
 ```
 ```
 #define fsrpin A0
